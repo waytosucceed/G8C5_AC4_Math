@@ -1,0 +1,52 @@
+[
+  {
+    "question": "X and Y are two prime numbers. When the sum of X and Y is divided by 2, the remainder is 1 (Note: X > Y) Quantity 1: Value of Y Quantity 2: Common factor by which both can be divisible. Which of the options is correct in the context of the given scenario?",
+    "options": [
+      "Q1 > Q2",
+      "Q1 = Q2",
+      "Q1 < Q2",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Four prime numbers are arranged in ascending order. The product of the first three numbers is 255 and that of the last three is 1955. The largest prime number is:",
+    "options": [
+      "23",
+      "31",
+      "17",
+      "29"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "If A and B are two prime numbers, which of the following cannot be the sum of A and B?",
+    "options": [
+      "6",
+      "10",
+      "28",
+      "14"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The sum of three prime numbers is 100. If one of them exceeds another by 36, then one of the numbers?",
+    "options": [
+      "17",
+      "43",
+      "29",
+      "31"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "If x, y and z are three distinct prime numbers where x > y > z. If x + y + z = 70, then what is the value of z?",
+    "options": [
+      "43",
+      "29",
+      "37",
+      "31"
+    ],
+    "correct": 2
+  }
+]
